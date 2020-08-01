@@ -1,0 +1,14 @@
+Offset: 213485
+Size: 107618 bytes
+MD5 Hash: de611b764c60163bf47b3abb25085609
+Path: ./input_Repaired/213488.jpg
+
+Offset: 519085
+Size: 70200 bytes
+MD5 Hash: 3d52313f57d207882c5b6bece1d3a93c
+Path: ./input_Repaired/519088.jpg
+
+Offset: 834445
+Size: 12600 bytes
+MD5 Hash: 6506588e7c9751736c39b9d2f639883a
+Path: ./input_Repaired/834448.jpg
